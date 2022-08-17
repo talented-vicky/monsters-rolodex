@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+h1 {
+  font-family: Silkscreen, cursive;
+  font-size: 68px;
+  color: #0ccac4;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
